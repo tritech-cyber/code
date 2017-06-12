@@ -1,0 +1,5 @@
+http://www.nodecopter.com
+
+https://github.com/felixge/node-ar-drone
+
+
